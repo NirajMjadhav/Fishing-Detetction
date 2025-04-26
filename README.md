@@ -1,5 +1,5 @@
 
-# Fishing Detection
+# Phishing Detection
 
 A machine learning-based project aimed at detecting phishing activities using various algorithms and techniques.
 
